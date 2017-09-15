@@ -14,7 +14,7 @@ Following parameters are additionally available. See also [original options](htt
 
 - stop_file_interval TIME
 
-    Chech `stop_file` every specified seconds (default: 5)
+    Check `stop_file` every specified seconds (default: 5)
 
 ## ChangeLog
 
